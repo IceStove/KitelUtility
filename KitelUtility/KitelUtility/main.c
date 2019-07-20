@@ -8,7 +8,7 @@ void run();
 void main() {
 	run();
 }
-// ¡÷ºÆ
+
 void run() {
 	int input = 0;
 	while (1)
